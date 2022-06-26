@@ -1,4 +1,3 @@
 👋 Hi, I’m @roupenminassian
-👀 I’m interested in Data Science, Artificial Intelligence, Neuroscience.
-🧠 Currently researching forecast modelling in energy consumption ⚡️ using LSTMs at the Univeristy of Sydney. 🌱
-
+👀 3+ years experience in Data Science with an interest in Artificial Intelligence and Computational Neuroscience.
+🧠 Currently working as an Machine Learning Researcher for the Smart Campus Project ⚡️ at the Univeristy of Technology, Sydney. 🌱
